@@ -35,3 +35,20 @@ Refused, off topic.
 **Tutor:**
 
 Refused, off topic.
+
+---
+## 2026-10-07 13:22, in .
+
+**Me:** how to concatenate two string in python
+
+**Tutor:**
+
+String concatenation joins two strings into one.
+
+```python
+def join_strings(first: str, second: str) -> str:
+    # TODO: return the two strings joined together
+    pass
+```
+
+What operator is used between the two string variables to join them?
